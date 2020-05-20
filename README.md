@@ -7,3 +7,4 @@ even more stuff
 sdfsd
 domnu ghiorghe
 nu conteaza
+commitu dupa git
